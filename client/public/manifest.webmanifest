@@ -1,0 +1,22 @@
+{
+  "name": "TontineBJ — La tontine, simplement",
+  "short_name": "TontineBJ",
+  "description": "La tontine numérique pensée au Bénin.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f1e9",
+  "theme_color": "#1e5b47",
+  "orientation": "any",
+  "categories": ["finance", "lifestyle"],
+  "icons": [
+    {
+      "src": "/manus-storage/tontinebj-mark_59a379bf.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

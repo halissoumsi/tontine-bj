@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>TontineBJ</title>
+  <circle cx="32" cy="32" r="30" fill="#f3bf4b"/>
+  <g fill="none" stroke="#123d32" stroke-width="2.4">
+    <ellipse cx="24" cy="24" rx="8" ry="18" transform="rotate(38 24 24)"/>
+    <ellipse cx="40" cy="34" rx="8" ry="18" transform="rotate(-38 40 34)"/>
+  </g>
+  <text x="32" y="37" text-anchor="middle" fill="#123d32" font-family="Georgia,serif" font-size="17" font-weight="700">bj</text>
+</svg>
